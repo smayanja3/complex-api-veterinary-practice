@@ -86,9 +86,3 @@ git clone https://github.com/smayanja3/complex-api-veterinary-practice.git
 4. Enter an animal to explore its biological information and geographic origin! 🐾🌍
 
 Thanks for checking out my project! 🐾🩺🌎✨
-
----
-
-## 🔗 Links
-
-- **GitHub Repository:** [Veterinary Animal Origin Guide](https://github.com/smayanja3/complex-api-veterinary-practice)
